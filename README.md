@@ -2,6 +2,7 @@ python-patterns
 ===============
 
 A collection of design patterns and idioms in Python.
+Simple and easy to understand.
 
 Current Patterns
 ----------------
